@@ -6,7 +6,7 @@
 #SBATCH --time=06:00:00
 #SBATCH --output=../logs/annotation_%j.log
 #
-# fPOP Epilepsy Family Study — Stage 04: Variant Annotation
+# fPOP Epilepsy Family Study - Stage 04: Variant Annotation
 # Stanford School of Medicine, Department of Genetics (Snyder Lab)
 #
 # Annotates phased, pedigree-aware variant calls using ANNOVAR against

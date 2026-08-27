@@ -1,5 +1,5 @@
 """
-fPOP Epilepsy Family Study — Multiome Analysis (Single-Cell RNA + ATAC)
+fPOP Epilepsy Family Study - Multiome Analysis (Single-Cell RNA + ATAC)
 Stanford School of Medicine, Department of Genetics (Snyder Lab)
 
 Processes single-cell multiome (joint RNA + ATAC) data to characterize

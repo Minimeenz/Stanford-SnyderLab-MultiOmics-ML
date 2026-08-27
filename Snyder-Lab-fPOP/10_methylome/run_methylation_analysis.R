@@ -1,6 +1,6 @@
 #!/usr/bin/env Rscript
 #
-# fPOP Epilepsy Family Study — Stage 06: DNA Methylation Analysis
+# fPOP Epilepsy Family Study - Stage 06: DNA Methylation Analysis
 # Stanford School of Medicine, Department of Genetics (Snyder Lab)
 #
 # Processes whole-genome bisulfite sequencing (or array-based) methylation

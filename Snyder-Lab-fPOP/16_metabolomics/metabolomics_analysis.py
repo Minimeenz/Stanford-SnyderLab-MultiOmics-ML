@@ -1,5 +1,5 @@
 """
-Snyder Lab fPOP — Metabolomics Analysis
+Snyder Lab fPOP - Metabolomics Analysis
 
 Processes untargeted/targeted metabolomics data (LC-MS/MS) across the
 proband and family members, completing the classical four-omics panel

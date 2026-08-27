@@ -6,7 +6,7 @@
 #SBATCH --time=06:00:00
 #SBATCH --output=../logs/str_analysis_%j.log
 #
-# Snyder Lab fPOP — Short Tandem Repeat (STR) / Repeat Expansion Analysis
+# Snyder Lab fPOP - Short Tandem Repeat (STR) / Repeat Expansion Analysis
 #
 # Genotypes known disease-associated repeat expansion loci using
 # ExpansionHunter, relevant given known STR-associated epilepsy and

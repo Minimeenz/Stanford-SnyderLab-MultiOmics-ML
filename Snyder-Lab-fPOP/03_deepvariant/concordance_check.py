@@ -1,5 +1,5 @@
 """
-Snyder Lab fPOP — DeepVariant / GATK Caller Concordance Check
+Snyder Lab fPOP - DeepVariant / GATK Caller Concordance Check
 
 Compares variant calls between the deep-learning-based DeepVariant caller
 and the GATK HaplotypeCaller pipeline to identify high-confidence

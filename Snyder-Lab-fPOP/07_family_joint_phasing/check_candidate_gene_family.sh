@@ -1,11 +1,11 @@
 #!/bin/bash
 #
-# fPOP Epilepsy Family Study — Candidate Gene Family Segregation Check
+# fPOP Epilepsy Family Study - Candidate Gene Family Segregation Check
 # Stanford School of Medicine, Department of Genetics (Snyder Lab)
 #
 # Given a candidate gene surfaced from cross-omic analysis (Stages 04-07),
 # checks segregation of variants within that gene across the family
-# pedigree — confirming whether the variant pattern is consistent with
+# pedigree - confirming whether the variant pattern is consistent with
 # the proband's phenotype (e.g., present in proband, absent/heterozygous
 # in unaffected relatives).
 #

@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# fPOP Epilepsy Family Study — Final Results Organization
+# fPOP Epilepsy Family Study - Final Results Organization
 # Stanford School of Medicine, Department of Genetics (Snyder Lab)
 #
 # Aggregates key outputs from each omic pipeline stage (genomic

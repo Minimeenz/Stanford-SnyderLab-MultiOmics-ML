@@ -1,5 +1,5 @@
 """
-fPOP Epilepsy Family Study — Candidate Variant Filtering
+fPOP Epilepsy Family Study - Candidate Variant Filtering
 Stanford School of Medicine, Department of Genetics (Snyder Lab)
 
 Filters ANNOVAR-annotated variant tables to rare, predicted-damaging

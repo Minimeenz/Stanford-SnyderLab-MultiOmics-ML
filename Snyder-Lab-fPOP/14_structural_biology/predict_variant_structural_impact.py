@@ -1,5 +1,5 @@
 """
-Snyder Lab fPOP — Structural Biology: Variant Impact on Protein Structure
+Snyder Lab fPOP - Structural Biology: Variant Impact on Protein Structure
 
 Given candidate coding variants surfaced from the annotation stage (08),
 predicts the structural impact of missense variants on the encoded protein

@@ -1,5 +1,5 @@
 """
-fPOP Epilepsy Family Study — Stage 07: Cytokine / Immune Profiling Analysis
+fPOP Epilepsy Family Study - Stage 07: Cytokine / Immune Profiling Analysis
 Stanford School of Medicine, Department of Genetics (Snyder Lab)
 
 Analyzes multiplex cytokine panel data (e.g., Luminex-style immunoassay

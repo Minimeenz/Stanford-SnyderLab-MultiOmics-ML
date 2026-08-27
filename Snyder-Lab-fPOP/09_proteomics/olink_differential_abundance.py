@@ -1,11 +1,11 @@
 """
-fPOP Epilepsy Family Study — Stage 05: Olink Proteomics Analysis
+fPOP Epilepsy Family Study - Stage 05: Olink Proteomics Analysis
 Stanford School of Medicine, Department of Genetics (Snyder Lab)
 
 Processes Olink proximity extension assay (PEA) proteomic data (NPX
 values) across the proband and family members, applies QC filtering,
 and identifies proteins differentially abundant in the proband relative
-to unaffected family members — for integration with genomic candidates
+to unaffected family members - for integration with genomic candidates
 from Stage 04.
 
 NOTE: No sample identifiers or patient data are included. Input is an

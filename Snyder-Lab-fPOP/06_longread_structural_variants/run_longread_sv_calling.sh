@@ -6,7 +6,7 @@
 #SBATCH --time=16:00:00
 #SBATCH --output=../logs/longread_sv_%j.log
 #
-# Snyder Lab fPOP — Long-Read Structural Variant Calling
+# Snyder Lab fPOP - Long-Read Structural Variant Calling
 #
 # Aligns long-read sequencing data (PacBio HiFi / ONT) using minimap2 and
 # calls structural variants (large insertions, deletions, inversions,

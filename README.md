@@ -1,4 +1,4 @@
-# Snyder Lab fPOP — Familial Personal Omics Profiling: Epilepsy Family Study
+# Snyder Lab fPOP - Familial Personal Omics Profiling: Epilepsy Family Study
 
 Computational pipeline for **fPOP** (familial Personal Omics Profiling), directed by Dr. Michael Snyder at Stanford School of Medicine's Department of Genetics (Snyder Lab). This study extends the Snyder Lab's iPOP (integrated Personal Omics Profiling) approach to a **family-based design**, applied here to an epilepsy family case: a **proband** (affected individual) compared against **unaffected family members** across a comprehensive multi-omic panel, to identify candidate disease-associated molecular signatures.
 
@@ -75,4 +75,4 @@ All compute-intensive stages run on **Stanford's SCG compute cluster** via SLURM
 
 ## Status
 
-Active — ongoing multi-omic analysis and cross-omic integration for candidate gene prioritization.
+Active - ongoing multi-omic analysis and cross-omic integration for candidate gene prioritization.

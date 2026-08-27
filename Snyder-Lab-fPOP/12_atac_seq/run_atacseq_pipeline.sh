@@ -6,13 +6,13 @@
 #SBATCH --time=12:00:00
 #SBATCH --output=../logs/atacseq_%j.log
 #
-# fPOP Epilepsy Family Study — ATAC-seq (Chromatin Accessibility)
+# fPOP Epilepsy Family Study - ATAC-seq (Chromatin Accessibility)
 # Stanford School of Medicine, Department of Genetics (Snyder Lab)
 #
 # Processes ATAC-seq data across the proband and family members to assess
 # whether chromatin accessibility differs at regulatory regions near
 # candidate genes identified in the genomic (04) and methylation (06)
-# analyses — testing whether variants/DMRs correspond to altered
+# analyses - testing whether variants/DMRs correspond to altered
 # regulatory activity.
 #
 # NOTE: No sample identifiers or patient data are included.

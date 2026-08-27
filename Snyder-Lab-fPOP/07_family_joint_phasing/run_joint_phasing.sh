@@ -6,12 +6,12 @@
 #SBATCH --time=12:00:00
 #SBATCH --output=../logs/joint_phasing_%j.log
 #
-# fPOP Epilepsy Family Study — Stage 03: Family Joint Genotyping & Phasing
+# fPOP Epilepsy Family Study - Stage 03: Family Joint Genotyping & Phasing
 # Stanford School of Medicine, Department of Genetics (Snyder Lab)
 #
 # Jointly genotypes the proband and unaffected family members, then
 # performs pedigree-aware phasing to determine variant inheritance
-# patterns (de novo, inherited, compound heterozygous) — critical for
+# patterns (de novo, inherited, compound heterozygous) - critical for
 # distinguishing candidate causal variants in the proband from background
 # family variation.
 #

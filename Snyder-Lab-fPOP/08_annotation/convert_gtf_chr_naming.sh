@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# fPOP Epilepsy Family Study — GTF Chromosome Naming Conversion Utility
+# fPOP Epilepsy Family Study - GTF Chromosome Naming Conversion Utility
 # Stanford School of Medicine, Department of Genetics (Snyder Lab)
 #
 # Converts chromosome naming convention in a GTF annotation file between

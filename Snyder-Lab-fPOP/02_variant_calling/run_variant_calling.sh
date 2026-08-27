@@ -6,7 +6,7 @@
 #SBATCH --time=12:00:00
 #SBATCH --output=../logs/variant_calling_%j.log
 #
-# fPOP Epilepsy Family Study — Stage 02: Variant Calling
+# fPOP Epilepsy Family Study - Stage 02: Variant Calling
 # Stanford School of Medicine, Department of Genetics (Snyder Lab)
 #
 # Calls per-sample variants from recalibrated BAMs using GATK

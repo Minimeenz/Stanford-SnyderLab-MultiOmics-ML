@@ -6,7 +6,7 @@
 #SBATCH --time=08:00:00
 #SBATCH --output=../logs/cnv_%j.log
 #
-# Snyder Lab fPOP — Copy Number Variant (CNV) Analysis
+# Snyder Lab fPOP - Copy Number Variant (CNV) Analysis
 #
 # Detects copy number variants (deletions/duplications) using GATK's
 # germline CNV calling pipeline (gCNV), an important complementary

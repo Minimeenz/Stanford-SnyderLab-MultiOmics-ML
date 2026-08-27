@@ -7,11 +7,11 @@
 #SBATCH --time=12:00:00
 #SBATCH --output=../logs/deepvariant_%j.log
 #
-# Snyder Lab fPOP — DeepVariant Deep-Learning Variant Calling
+# Snyder Lab fPOP - DeepVariant Deep-Learning Variant Calling
 #
 # Runs Google's DeepVariant as an orthogonal, deep-learning-based variant
 # caller alongside the GATK-based pipeline (02_variant_calling), providing
-# a second independent variant call set for concordance filtering — variants
+# a second independent variant call set for concordance filtering - variants
 # supported by both callers are prioritized as high-confidence candidates.
 #
 # NOTE: No sample identifiers or patient data are included.

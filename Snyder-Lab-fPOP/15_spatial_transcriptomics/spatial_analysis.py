@@ -1,5 +1,5 @@
 """
-Snyder Lab fPOP — Spatial Transcriptomics Analysis
+Snyder Lab fPOP - Spatial Transcriptomics Analysis
 
 Processes spatial transcriptomics data (e.g., 10x Visium / Xenium) to map
 candidate gene expression (from Stage 08 annotation and Stage 09/10
@@ -50,7 +50,7 @@ def candidate_gene_spatial_profile(adata: "sc.AnnData", candidate_genes: list[st
     """
     For each candidate gene, compute spatial autocorrelation (Moran's I) to
     assess whether its expression is spatially structured rather than
-    randomly distributed across the tissue — a signal of regional disease
+    randomly distributed across the tissue - a signal of regional disease
     relevance.
     """
     genes_present = [g for g in candidate_genes if g in adata.var_names]

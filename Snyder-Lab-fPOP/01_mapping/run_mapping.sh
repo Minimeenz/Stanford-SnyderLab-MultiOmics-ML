@@ -6,7 +6,7 @@
 #SBATCH --time=24:00:00
 #SBATCH --output=../logs/mapping_%j.log
 #
-# fPOP Epilepsy Family Study — Stage 01: Read Mapping
+# fPOP Epilepsy Family Study - Stage 01: Read Mapping
 # Stanford School of Medicine, Department of Genetics (Snyder Lab)
 #
 # Aligns raw sequencing reads (proband + family members) to the reference

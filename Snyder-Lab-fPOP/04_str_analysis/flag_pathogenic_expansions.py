@@ -1,5 +1,5 @@
 """
-Snyder Lab fPOP — Pathogenic Repeat Expansion Flagging
+Snyder Lab fPOP - Pathogenic Repeat Expansion Flagging
 
 Parses ExpansionHunter output (JSON per-sample repeat genotypes) across
 the family, compares repeat lengths at each locus between the proband and
