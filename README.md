@@ -2,7 +2,7 @@
 
 Computational pipeline for **fPOP** (familial Personal Omics Profiling), directed by Dr. Michael Snyder at Stanford School of Medicine's Department of Genetics (Snyder Lab). This study extends the Snyder Lab's iPOP (integrated Personal Omics Profiling) approach to a **family-based design**, applied here to an epilepsy family case: a **proband** (affected individual) compared against **unaffected family members** across a comprehensive multi-omic panel, to identify candidate disease-associated molecular signatures.
 
-> **Privacy note:** This repository contains pipeline code and directory structure only. No sample identifiers, family IDs, patient data, PHI, or real sequencing/omics data are included anywhere in this repo. All file paths and manifests referenced in scripts are illustrative placeholders, read from de-identified sample sheets at runtime.
+> **Privacy note:** This repository contains pipeline code and directory structure only. No sample identifiers, family IDs, patient data, or PHI is in this repo.
 
 ## Study Design
 
