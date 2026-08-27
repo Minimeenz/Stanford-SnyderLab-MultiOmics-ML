@@ -26,6 +26,7 @@ Proband vs. family comparison across the following omics layers:
 | 14 | **Structural biology** | `14_structural_biology` | ESM-based variant effect prediction, AlphaFold structural context for candidate missense variants |
 | 15 | **Spatial transcriptomics** | `15_spatial_transcriptomics` | 10x Visium, spatial autocorrelation (Moran's I) of candidate gene expression |
 | 16 | **Metabolomics** | `16_metabolomics` | LC-MS/MS peak table analysis, differential metabolite abundance |
+| 17 | **Cross-omic integration** | `17_cross_omic_integration` | Rank-normalized multi-omic feature fusion, gradient-boosted candidate gene ranking, per-gene interpretability reports |
 
 ## Pipeline Structure
 
@@ -47,6 +48,7 @@ Snyder-Lab-fPOP/
 ├── 14_structural_biology/
 ├── 15_spatial_transcriptomics/
 ├── 16_metabolomics/
+├── 17_cross_omic_integration/    # unifies all omics layers into one ranked candidate list
 ├── organize_final_results.sh            # aggregates outputs across all stages
 ├── metadata/                            # de-identified sample manifests, pedigree files (not tracked)
 ├── references/                          # reference genome, known sites (not tracked)
