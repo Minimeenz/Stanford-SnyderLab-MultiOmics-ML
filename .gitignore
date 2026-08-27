@@ -1,0 +1,57 @@
+# Never commit real sequencing data, sample data, or PHI
+*.bam
+*.bai
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.vcf
+*.vcf.gz
+*.vcf.gz.tbi
+*.g.vcf.gz
+*.h5
+*.h5ad
+*.CpG_report.txt.gz
+*.pdb
+*.hdf5
+
+# Metadata / manifests / pedigree files — de-identified only, never tracked by default
+metadata/*.tsv
+metadata/*.csv
+metadata/*.ped
+metadata/*.json
+
+# References (large files, not repo-appropriate)
+references/*.fa
+references/*.fasta
+references/*.fa.fai
+references/*db*/
+references/*.json
+references/*.interval_list
+
+# Logs
+logs/*.log
+
+# Results / intermediate directories (generated, not source-controlled)
+**/results/
+**/aligned_bams/
+**/gvcfs/
+**/joint_calls/
+**/annotated/
+**/peaks/
+**/deepvariant_calls/
+**/str_calls/
+**/cnv_calls/
+**/sv_calls/
+**/af_structures/
+**/raw_fastq/
+**/raw_longreads/
+**/raw_data/
+**/bams/
+
+# OS / editor cruft
+.DS_Store
+*.swp
+__pycache__/
+*.pyc
+.Rhistory
